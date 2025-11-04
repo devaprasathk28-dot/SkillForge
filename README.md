@@ -65,7 +65,7 @@ Contains:
 ## 🎥 Demo Video
 ▶️ *Upload in submission portal (2–4 min)*  
 When live, include YouTube or Loom link here, e.g.  
-`https://youtu.be/your-demo-video-id`
+**[Demo video link](https://drive.google.com/file/d/1vFQAXv54gkVM-qeehyk0xoqRYgonH6yw/view?usp=drivesdk)**
 
 **Contents of demo video:**
 1. Brief intro (Team Tech Riders + project theme)  
